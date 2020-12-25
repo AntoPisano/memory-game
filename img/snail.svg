@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 719.21 489.54" version="1.0">
+  <g id="layer1" transform="translate(-145.29 -73.322)">
+    <g id="g1879" transform="translate(123.23 -324.71)">
+      <path id="path1306" d="m718.31 799.05c74.86 81.77-45.42 59.34-241.85 81-132.73 14.63-322.73 13.84-351.26-77.09-42.233-134.58 41.62-208.09 168.91-167.06 133.5 43.03 368.54 106.81 424.2 163.15z" stroke="#000" stroke-width=".9906" fill="#f5e70a"/>
+      <path id="path3080" d="m108 519.03c162.84 25.03 123.74 162.97 123.74 162.97l0.59-2.25" stroke="#000" stroke-width="2.8685" fill="none"/>
+      <path id="path3078" d="m54.158 519.01c126.55 22.64 96.162 147.35 96.162 147.35l0.46-2.03" stroke="#000" stroke-width="2.951" fill="none"/>
+      <path id="path1309" d="m125.19 132.03a34.231 32.275 0 1 1 -68.464 0 34.231 32.275 0 1 1 68.464 0z" transform="matrix(.81632 0 0 .76014 -22.954 411.15)" stroke="#000" stroke-width="3.2854" fill="#20e5d8"/>
+      <path id="path1311" d="m222.99 144.75a37.165 31.297 0 1 1 -74.33 0 37.165 31.297 0 1 1 74.33 0z" transform="matrix(1.0311 0 0 1.1534 -60.594 340.64)" stroke="#000" stroke-width="2.0091" fill="#20e5d8"/>
+      <path id="path4828" d="m-440.11 5.8682a20.539 21.517 0 1 1 -41.08 0 20.539 21.517 0 1 1 41.08 0z" stroke="#e3ee12" fill="#282206" transform="matrix(.75885 0 0 .69615 393.76 507.43)"/>
+      <path id="path5703" d="m-440.11 5.8682a20.539 21.517 0 1 1 -41.08 0 20.539 21.517 0 1 1 41.08 0z" stroke="#e3ee12" fill="#282206" transform="matrix(.98129 0 0 1 568.67 500.75)"/>
+      <path id="path5707" d="m414.69 141.81a209.3 151.59 0 1 1 -418.6 0 209.3 151.59 0 1 1 418.6 0z" transform="matrix(.98588 0 0 1.3215 263.22 412.12)" stroke="#121307" stroke-width="2.0509" fill="#784421"/>
+      <path id="path5705" d="m127.14-74.33c6.08 8.532-8.5 12.406-14.18 10.106-15.389-6.232-14.524-27.142-6.03-38.466 15.2-20.27 45.43-17.87 62.76-1.96 25.43 23.344 21.34 63.973-2.12 87.045-31.27 30.753-82.617 24.892-111.33-6.194-36.14-39.118-28.475-101.31 10.266-135.62 46.924-41.56 120.02-32.07 159.9 14.35 47.01 54.696 35.69 138.75-18.42 184.19-62.46 52.464-157.5 39.308-208.48-22.494-57.931-70.223-42.933-176.25 26.571-232.78 77.969-63.4 195.01-46.56 257.06 30.65 68.89 85.718 50.2 213.77-34.72 281.35" transform="matrix(.89760 -.24111 .19624 .87472 343.78 701.04)" stroke="#000" stroke-width="6.1377" fill="none"/>
+      <path id="path10968" d="m236 774.24c1.96 16.62-19.51 32.82-47.93 36.17-28.41 3.35-55.79-11.16-53.37-27.72 3.86-26.36 15.53-5.54 43.94-8.89 28.42-3.34 48.65-32.1 57.36 0.44z" stroke="#620000" stroke-width=".9" fill="#f55"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>snail</dc:title>
+        <dc:date>2007-01-01T03:45:09</dc:date>
+        <dc:description>animal, animal, cartoon, cartoon, clip art, clipart, image, media, nature, nature, png, public domain, snail, snail, svg, </dc:description>
+        <dc:source>http://openclipart.org/detail/2680/snail-by-machovka</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Machovka</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>animal</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>nature</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>snail</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
