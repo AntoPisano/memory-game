@@ -60,3 +60,21 @@ img {
     -o-user-drag: none; 
     user-drag: none; 
   }
+
+button {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    right: 90px;
+    top: 18px;
+    border-radius: 5px;
+    background-color: rgb(23, 2, 143);
+    color: yellow;
+    font-family: serif;
+    font-size: medium;
+}  
+
+button:active {
+    transform: scale(0.97);
+    transition: transform 0.10s;
+}

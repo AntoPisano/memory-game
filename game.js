@@ -3,6 +3,8 @@ const cards = document.querySelectorAll('.memoryCard');
 let hasTurnedCard = false;
 let lockBoard = false;
 let firstCard, secondCard;
+let matchCounter =0;
+
 
 function turnCard() {
     if (lockBoard) return;
@@ -21,6 +23,10 @@ function turnCard() {
         firstCard.removeEventListener('click', turnCard);
         secondCard.removeEventListener('click', turnCard);
         resetBoard();
+        matchCounter+=1;
+    if(matchCounter==(cards.length/2)){
+        window.alert("Congratulations! You Won!");
+  }
     } else {
         lockBoard = true;
         setTimeout(() => {    
@@ -42,5 +48,9 @@ function resetBoard() {
       card.style.order = ramdomPos;
     });
   })();
+
+  function refreshPage(){
+    window.location.reload();
+} 
 
 cards.forEach(card => card.addEventListener('click', turnCard));
