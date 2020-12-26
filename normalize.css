@@ -65,16 +65,26 @@ button {
     width: 100px;
     height: 50px;
     position: absolute;
-    right: 90px;
-    top: 18px;
+    right: 200px;
+    top: 150px;
     border-radius: 5px;
     background-color: rgb(23, 2, 143);
-    color: yellow;
-    font-family: serif;
+    color:gold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: medium;
+    transform: rotate(-20deg);
 }  
 
 button:active {
     transform: scale(0.97);
     transition: transform 0.10s;
+}
+
+.title {
+    position: absolute;
+    left: 70px;
+    top: 150px;
+    color: gold;
+    transform: rotate(-20deg);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
